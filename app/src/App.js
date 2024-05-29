@@ -8,10 +8,10 @@ function App() {
         <a>--OM NaMaHa ShiVaY--</a>
         <img src={logo} className="App-logo" alt="logo" />
         <a
-          // className="App-link"
-          // href="https://reactjs.org"
-          // target="_blank"
-          // rel="noopener noreferrer"
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
         >
          ...BABA MAHAKAL...
         </a>
